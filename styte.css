@@ -3,7 +3,7 @@
 
 }
 h1{
-  color: red;
+  color: rgb(231, 31, 24);
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
@@ -17,5 +17,6 @@ img{
   color:black;
   display:block;
   margin:0 auto;
+  text-align: left;
 
 }
